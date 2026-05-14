@@ -1,0 +1,52 @@
+Flask==2.3.3
+Flask-SQLAlchemy==3.0.5
+Flask-CORS==4.0.0
+Flask-JWT-Extended==4.5.2
+Flask-Caching==2.0.2
+Flask-Limiter==3.5.0
+
+# Database
+mongoengine==0.27.0
+PyMongo==4.5.0
+
+# Authentication
+PyJWT==2.8.1
+bcrypt==4.0.1
+Google-Auth==2.26.0
+Google-Auth-HTTPLIB2==0.2.0
+
+# File Handling
+Werkzeug==2.3.7
+Python-Multipart==0.0.6
+
+# File Conversion
+PDF2Image==1.16.3
+Pillow==10.0.0
+python-docx==0.8.11
+openpyxl==3.1.2
+python-pptx==0.6.21
+PyPDF2==3.0.1
+
+# OCR
+Pytesseract==0.3.10
+EasyOCR==1.7.0
+
+# AWS
+boto3==1.28.33
+s3transfer==0.6.1
+
+# Utilities
+python-dotenv==1.0.0
+requests==2.31.0
+click==8.1.6
+gunicorn==21.2.0
+
+# Validation
+Email-Validator==2.0.0
+
+# Logging
+Colorama==0.4.6
+
+# Development
+python-decouple==3.8
+watchdog==3.0.0
